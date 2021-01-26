@@ -1,2 +1,2 @@
 # ravendb
-Yet another relational database engine.
+Yet another relational database system.
